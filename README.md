@@ -1,4 +1,4 @@
-# 🚀 Mission Control AI
+#  Mission Control AI
 
 **Integrantes:**
 - Rhuan Pacheco Carreri — RM: 570129
@@ -6,13 +6,13 @@
 
 ---
 
-## 📋 O que o projeto faz
+##  O que o projeto faz
 
 Sistema de monitoramento de missão espacial desenvolvido em Python no Google Colab. Usa o modelo de linguagem **Groq** (ARIA v1.0) para analisar em tempo real dados simulados de temperatura, energia, comunicação, pressão e oxigênio. O sistema classifica o status da missão em três níveis — **NOMINAL**, **ATENÇÃO** e **CRÍTICO** — e executa ações automáticas de resposta quando parâmetros ultrapassam os limites seguros.
 
 ---
 
-## 🖥️ Demonstração
+##  Demonstração
 
 ### Ciclo 1 — Cenário Normal
 Todos os parâmetros dentro dos limites operacionais. Status: **NOMINAL**.
@@ -49,7 +49,7 @@ A IA analisa cada parâmetro crítico, fornece previsões e recomenda ações co
 
 ---
 
-## ⚙️ Tecnologias Utilizadas
+##  Tecnologias Utilizadas
 
 - Python 3
 - Google Colab
@@ -58,7 +58,7 @@ A IA analisa cada parâmetro crítico, fornece previsões e recomenda ações co
 
 ---
 
-## ▶️ Como Executar
+## Como Executar
 
 Abra o notebook no Google Colab:
 
@@ -68,7 +68,7 @@ Execute as células em ordem. Insira sua chave de API do Groq quando solicitado.
 
 ---
 
-## 🎥 Vídeo de Demonstração
+##  Vídeo de Demonstração
 
 [Assistir ao vídeo](#) <!-- Substitua pelo link real do vídeo -->
 
