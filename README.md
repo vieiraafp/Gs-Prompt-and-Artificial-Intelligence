@@ -68,10 +68,4 @@ Execute as células em ordem. Insira sua chave de API do Groq quando solicitado.
 
 ---
 
-##  Vídeo de Demonstração
-
-[Assistir ao vídeo](#) <!-- Substitua pelo link real do vídeo -->
-
----
-
 *FIAP — Global Solution 2026.1 | Prompt and Artificial Intelligence*
